@@ -1,0 +1,5 @@
+System.setProperty("javax.net.debug", "ssl,handshake"); 
+
+https://blog.csdn.net/zbuger/article/details/51695582
+
+https://blog.csdn.net/hu_zhiting/article/details/99695197
